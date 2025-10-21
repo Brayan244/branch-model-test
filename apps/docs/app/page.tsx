@@ -37,6 +37,7 @@ export default function Home() {
           </li>
           <li>New version</li>
           <li>Save and see your changes instantly.</li>
+          <li>fake work</li>
         </ol>
 
         <div className={styles.ctas}>
