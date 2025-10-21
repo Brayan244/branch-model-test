@@ -39,6 +39,7 @@ export default function Home() {
           <li>Another version</li>
           <li>Save and see your changes instantly.</li>
           <li>fake work</li>
+          <li>We are fixing the bug</li>
         </ol>
 
         <div className={styles.ctas}>
